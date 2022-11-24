@@ -14,6 +14,9 @@ conda create -n udacity python=3.10
 conda activate udacity
 pip install numpy pandas matplotlib scipy scikit-learn seaborn
 pip install jupyter
+
+# for code checks
+pip install pycodestyle pycodestyle_magic flake8
 ```
 
 ## Getting the Data
@@ -40,7 +43,10 @@ The following business questions should be answered in this analysis:
 
 # Files
 
-The notebook AirBnB-Seattle-Data-Analysis.ipynb is used to load and analyze the data.
+For each question there is a file containing the analysis (and documentation):
+* AirBnB-Seattle-Data-Analysis-Question1.ipynb : initial data introspection and analysis of question 1
+* AirBnB-Seattle-Data-Analysis-Question2.ipynb : analysis of question 2
+* AirBnB-Seattle-Data-Analysis-Question3.ipynb : analysis of question 3
 
 # Licenses
 
