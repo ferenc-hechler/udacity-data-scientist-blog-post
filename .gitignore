@@ -1,3 +1,4 @@
 /.project
 /data/
-/.ipynb_checkpoints/
+/other/
+.ipynb_checkpoints/
