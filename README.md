@@ -3,6 +3,10 @@
 For the Udacity DataScientist course the AirBnB Dataset should be analyzed using the CRISP-DM process and the results should be published. 
 This repository contains all the sources used to analyze the data.
 
+# Blog-Post using this analysis
+
+https://medium.com/@ferenc.hechler/how-to-learn-from-customer-satisfaction-7bcb2eee79e3
+
 # How to setup your environment
 
 ```
